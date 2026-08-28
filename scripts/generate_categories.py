@@ -157,7 +157,7 @@ DROPDOWN_HTML_POST = DROPDOWN_HTML.replace('href="', 'href="../')
 
 HEADER_TEMPLATE = '''<header class="site-header" style="background-image:linear-gradient(rgba(15,25,35,0.6),rgba(15,25,35,0.75)),url('images/header-{header_theme}.webp');">
   <div class="header-inner">
-    <a href="index.html" class="site-logo"><span class="paw">🐾</span>毛毛邏輯 寵物知識百科</a>
+    <a href="index.html" class="site-logo">毛毛邏輯 寵物知識百科</a>
     <nav class="site-nav">
       <a href="index.html">🏠 首頁</a>
       <a href="blog.html">📚 文章總覽</a>
