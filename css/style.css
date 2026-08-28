@@ -535,6 +535,17 @@ img { max-width: 100%; height: auto; display: block; }
 .footer-links a { color: rgba(255,255,255,0.6); font-size: 0.85rem; }
 .footer-links a:hover { color: white; }
 
+/* 文章頁 footer 新版 */
+.footer-content { text-align: center; }
+.footer-content .footer-brand { margin-bottom: 16px; }
+.footer-content .footer-logo { max-width: 160px; height: auto; margin-bottom: 8px; }
+.footer-content .footer-brand p { font-size: 0.9rem; color: rgba(255,255,255,0.7); margin: 0; }
+.footer-content .footer-contact { margin-bottom: 16px; }
+.footer-content .footer-contact p { font-size: 0.88rem; color: rgba(255,255,255,0.75); margin: 4px 0; }
+.footer-content .footer-contact strong { color: rgba(255,255,255,0.9); }
+.footer-content .footer-bottom { border-top: 1px solid rgba(255,255,255,0.15); padding-top: 14px; margin-top: 8px; }
+.footer-content .footer-bottom p { font-size: 0.8rem; color: rgba(255,255,255,0.5); margin: 0; }
+
 /* ===== 404 Page ===== */
 .error-page {
   text-align: center;
