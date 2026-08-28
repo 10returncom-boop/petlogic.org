@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+scripts/__pycache__/
+*.pyc
+
+# 產生的暫存檔
+cleaned_titles.json
+*.log
+
+# 系統檔案
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 編輯器
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 環境
+.env
+.env.local

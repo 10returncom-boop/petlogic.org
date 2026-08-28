@@ -1,0 +1,10 @@
+title: PetLogic 寵物知識百科
+description: 用科學邏輯理解毛孩。9大深度專欄，涵蓋貓行為實驗、狗訓練科學、寵物營養實驗、高齡寵物學、幼犬幼貓成長誌、異寵物種誌、寵物與城市、寵物文化誌、寵物商品科學。
+url: "https://petlogic.org"
+baseurl: ""
+markdown: kramdown
+exclude:
+  - scripts/
+  - README.md
+  - Gemfile
+  - Gemfile.lock

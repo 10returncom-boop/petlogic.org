@@ -1,0 +1,310 @@
+﻿<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PetLogic 寵物知識百科｜科學養寵，從理解毛孩開始</title>
+<meta name="description" content="PetLogic 寵物知識百科，9大深度專欄涵蓋貓行為實驗、狗訓練科學、寵物營養實驗、高齡寵物學、異寵物種誌、寵物商品科學等。用科學邏輯理解毛孩，讓每一位飼主都能安心養寵。">
+<meta name="keywords" content="寵物知識,貓行為,狗訓練,寵物營養,高齡寵物,異寵,寵物商品,寵物文化,寵物科學,寵物百科">
+<meta name="author" content="PetLogic 寵物知識百科">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+<meta name="theme-color" content="#2a9d8f">
+<meta name="format-detection" content="telephone=no">
+
+<!-- Open Graph -->
+<meta property="og:title" content="PetLogic 寵物知識百科｜科學養寵，從理解毛孩開始">
+<meta property="og:description" content="9大深度專欄，用實驗、數據和科學文獻拆解寵物行為、營養、健康與商品。用科學邏輯理解毛孩。">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="zh_TW">
+<meta property="og:site_name" content="PetLogic 寵物知識百科">
+<meta property="og:url" content="https://petlogic.org/index.html">
+<meta property="og:image" content="https://petlogic.org/images/og-image.webp">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="PetLogic 寵物知識百科｜科學養寵，從理解毛孩開始">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="PetLogic 寵物知識百科｜科學養寵，從理解毛孩開始">
+<meta name="twitter:description" content="9大深度專欄，用實驗、數據和科學文獻拆解寵物行為、營養、健康與商品。">
+<meta name="twitter:image" content="https://petlogic.org/images/og-image.webp">
+<meta name="twitter:site" content="@petlogic_org">
+<meta name="twitter:creator" content="@petlogic_org">
+
+<!-- Canonical -->
+<link rel="canonical" href="https://petlogic.org/index.html">
+
+<!-- RSS Feed -->
+<link rel="alternate" type="application/rss+xml" title="PetLogic 寵物知識百科 RSS Feed" href="https://petlogic.org/rss.xml">
+
+<!-- Favicon -->
+<link rel="icon" type="image/png" href="images/favicon.png">
+<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+
+<!-- Performance: Preconnect & DNS Prefetch -->
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.google.com">
+<link rel="dns-prefetch" href="https://www.gstatic.com">
+
+<!-- CSS -->
+<link rel="stylesheet" href="css/style.css">
+
+<!-- Structured Data: Organization -->
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Organization","name":"PetLogic 寵物知識百科","url":"https://petlogic.org","logo":"https://petlogic.org/images/logo.webp","description":"9大深度專欄的寵物科學知識平台，用實驗、數據和文獻拆解寵物行為、營養、健康與商品。","sameAs":["https://www.facebook.com/petlogic.org","https://www.instagram.com/petlogic_org","https://www.youtube.com/@petlogic_org"]}
+</script>
+
+<!-- Structured Data: WebSite -->
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","name":"PetLogic 寵物知識百科","url":"https://petlogic.org","description":"9大深度專欄的寵物科學知識平台","potentialAction":{"@type":"SearchAction","target":"https://petlogic.org/blog.html?q={search_term_string}","query-input":"required name=search_term_string"}}
+</script>
+
+<!-- Google Search Console Verification (replace with your code) -->
+<meta name="google-site-verification" content="YOUR_GSC_VERIFICATION_CODE">
+
+<!-- Bing Webmaster Verification -->
+<meta name="msvalidate.01" content="YOUR_BING_VERIFICATION_CODE">
+
+<!-- Google Analytics (GA4) - Replace G-XXXXXXXXXX with your Measurement ID -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-XXXXXXXXXX');
+</script>
+</head>
+<body>
+
+<!-- Header -->
+<header class="site-header" style="background-image:linear-gradient(rgba(15,25,35,0.6),rgba(15,25,35,0.75)),url('images/header-default.webp');">
+  <div class="header-inner">
+    <a href="index.html" class="site-logo"><span class="paw">🐾</span>PetLogic 寵物知識百科</a>
+    <nav class="site-nav">
+      <a href="index.html">🏠 首頁</a>
+      <a href="blog.html">📚 文章總覽</a>
+      <div class="dropdown">
+        <button class="dropbtn" onclick="toggleDropdown()">專欄分類 <span class="arrow">▼</span></button>
+        <div class="dropdown-content" id="catDropdown">
+          <div class="dropdown-header">
+            <span>10大專欄 · 深度科學</span>
+            <a href="blog.html#all-posts" class="view-all">查看全部 →</a>
+          </div>
+          <div class="dropdown-grid">
+            <a href="cat-behavior-lab.html" class="dropdown-item"><span class="di-name">🐱 貓行為實驗室</span><span class="di-desc">用實驗與觀察拆解貓咪行為</span></a>
+            <a href="dog-training-science.html" class="dropdown-item"><span class="di-name">🐕 狗訓練科學</span><span class="di-desc">正向訓練的證據與方法</span></a>
+            <a href="pet-nutrition-lab.html" class="dropdown-item"><span class="di-name">🥼 寵物營養實驗室</span><span class="di-desc">飼料實測與營養科學</span></a>
+            <a href="senior-pet-studies.html" class="dropdown-item"><span class="di-name">🧓 高齡寵物學</span><span class="di-desc">老貓老狗的照護與醫學</span></a>
+            <a href="puppy-kitten-growth.html" class="dropdown-item"><span class="di-name">🌱 幼犬幼貓成長誌</span><span class="di-desc">0-12個月的發育里程碑</span></a>
+            <a href="exotic-species-chronicles.html" class="dropdown-item"><span class="di-name">🦎 異寵物種誌</span><span class="di-desc">爬蟲、兔、倉鼠的物種科學</span></a>
+            <a href="pets-and-city.html" class="dropdown-item"><span class="di-name">🏙️ 寵物與城市</span><span class="di-desc">公共空間、法規與城市養寵</span></a>
+            <a href="pet-culture.html" class="dropdown-item"><span class="di-name">📜 寵物文化誌</span><span class="di-desc">人寵關係的歷史與社會觀察</span></a>
+            <a href="pet-product-science.html" class="dropdown-item"><span class="di-name">🛒 寵物商品科學</span><span class="di-desc">用品與食品的成分與效果實測</span></a>
+            <a href="pet-goods-picks.html" class="dropdown-item"><span class="di-name">🛍️ 順寵好物推薦</span><span class="di-desc">用過才敢推的真心清單</span></a>
+          </div>
+        </div>
+      </div>
+    </nav>
+  </div>
+</header>
+
+<main class="container" style="padding-top:24px;">
+
+  <!-- 10大專欄卡片 -->
+  <div class="post-grid" style="margin-bottom:32px;">
+    <a href="cat-behavior-lab.html" class="post-card" data-cat="貓行為實驗室">
+      <img src="images/category-cat-behavior-lab.webp" class="post-card-thumb" alt="貓行為實驗室" loading="lazy">
+      <div class="post-card-body">
+        <span class="post-card-cat">🐱 貓行為實驗室</span>
+        <h3 class="post-card-title">用攝影機與行為學方法，實際觀察測量貓咪的真實行為</h3>
+        <p class="post-card-excerpt">頻率分析、行為觀察、認知實驗——拆解貓咪每個動作背後的動機與機制。</p>
+      </div>
+    </a>
+    <a href="dog-training-science.html" class="post-card" data-cat="狗訓練科學">
+      <img src="images/article-dog-clicker-training.webp" class="post-card-thumb" alt="狗訓練科學" loading="lazy">
+      <div class="post-card-body">
+        <span class="post-card-cat">🐕 狗訓練科學</span>
+        <h3 class="post-card-title">從操作制約到響片實驗，用學習心理學的證據訓練狗</h3>
+        <p class="post-card-excerpt">響片vs口語、正向強化、社會化研究——什麼訓練方法真正有效，數據說話。</p>
+      </div>
+    </a>
+    <a href="pet-nutrition-lab.html" class="post-card" data-cat="寵物營養實驗室">
+      <img src="images/category-pet-nutrition-science.webp" class="post-card-thumb" alt="寵物營養實驗室" loading="lazy">
+      <div class="post-card-body">
+        <span class="post-card-cat">🥼 寵物營養實驗室</span>
+        <h3 class="post-card-title">市售飼料成分送檢、營養標籤解讀、過敏飲食的科學依據</h3>
+        <p class="post-card-excerpt">無穀迷思、蛋白質實測、鮮食vs乾糧——用數據說話，不被行銷話術迷惑。</p>
+      </div>
+    </a>
+    <a href="senior-pet-studies.html" class="post-card" data-cat="高齡寵物學">
+      <img src="images/article-senior-dog-dementia.webp" class="post-card-thumb" alt="高齡寵物學" loading="lazy">
+      <div class="post-card-body">
+        <span class="post-card-cat">🧓 高齡寵物學</span>
+        <h3 class="post-card-title">狗狗癡呆、貓咪腎病、關節退化——高齡寵物的醫學與照護</h3>
+        <p class="post-card-excerpt">認知障礙早期訊號、慢性疾病管理、安寧照護——以生命品質為核心的高齡專欄。</p>
+      </div>
+    </a>
+    <a href="puppy-kitten-growth.html" class="post-card" data-cat="幼犬幼貓成長誌">
+      <img src="images/article-puppy-development.webp" class="post-card-thumb" alt="幼犬幼貓成長誌" loading="lazy">
+      <div class="post-card-body">
+        <span class="post-card-cat">🌱 幼犬幼貓成長誌</span>
+        <h3 class="post-card-title">從0週到12個月，每週的發育里程碑、行為變化與關鍵任務</h3>
+        <p class="post-card-excerpt">社會化黃金期、疫苗時間軸、斷奶營養、發育異常辨識——黃金期的基礎一次搞懂。</p>
+      </div>
+    </a>
+    <a href="exotic-species-chronicles.html" class="post-card" data-cat="異寵物種誌">
+      <img src="images/category-exotic-pets.webp" class="post-card-thumb" alt="異寵物種誌" loading="lazy">
+      <div class="post-card-body">
+        <span class="post-card-cat">🦎 異寵物種誌</span>
+        <h3 class="post-card-title">爬蟲、兔、倉鼠、鳥類——每個物種的自然歷史與飼養科學</h3>
+        <p class="post-card-excerpt">棲地需求、環境參數、常見誤區拆解——拒絕「大概可以」，給物種應有的對待。</p>
+      </div>
+    </a>
+    <a href="pets-and-city.html" class="post-card" data-cat="寵物與城市">
+      <img src="images/category-pets-and-city.webp" class="post-card-thumb" alt="寵物與城市" loading="lazy">
+      <div class="post-card-body">
+        <span class="post-card-cat">🏙️ 寵物與城市</span>
+        <h3 class="post-card-title">寵物公園設計學、大眾運輸規則、租屋養寵、公共空間權益</h3>
+        <p class="post-card-excerpt">用城市規劃的視角看寵物——城市如何與動物共存，調查與實測並重。</p>
+      </div>
+    </a>
+    <a href="pet-culture.html" class="post-card" data-cat="寵物文化誌">
+      <img src="images/category-pet-culture.webp" class="post-card-thumb" alt="寵物文化誌" loading="lazy">
+      <div class="post-card-body">
+        <span class="post-card-cat">📜 寵物文化誌</span>
+        <h3 class="post-card-title">從古埃及神貓到網紅貓——人寵關係的歷史演變與社會觀察</h3>
+        <p class="post-card-excerpt">中世紀屠貓、現代貓奴文化、寵物經濟現象——用文化研究的視角理解人類為何離不開毛孩。</p>
+      </div>
+    </a>
+    <a href="pet-product-science.html" class="post-card" data-cat="寵物商品科學">
+      <img src="images/article-cat-litter-comparison.webp" class="post-card-thumb" alt="寵物商品科學" loading="lazy">
+      <div class="post-card-body">
+        <span class="post-card-cat">🛒 寵物商品科學</span>
+        <h3 class="post-card-title">貓砂除臭力對比、洗毛精成分分析、玩具安全性檢測</h3>
+        <p class="post-card-excerpt">市售寵物商品的效果與成分，用實驗數據告訴你——買之前先看數據，不被行銷綁架。</p>
+      </div>
+    </a>
+    <a href="pet-goods-picks.html" class="post-card" data-cat="順寵好物推薦">
+      <img src="images/article-pet-products-recommendation.webp" class="post-card-thumb" alt="順寵好物推薦" loading="lazy">
+      <div class="post-card-body">
+        <span class="post-card-cat">🛍️ 順寵好物推薦</span>
+        <h3 class="post-card-title">用過才敢推！從貓砂到飼料，每樣都是親自試用後的真心推薦</h3>
+        <p class="post-card-excerpt">不業配、不說謊，只推真的好用的——踩過的雷也一併告訴你，血汗錢換來的真實心得。</p>
+      </div>
+    </a>
+  </div>
+
+  <!-- 最新文章卡片 -->
+  <div class="post-grid">
+    <a href="posts/post-011.html" class="post-card" data-cat="順寵好物推薦">
+      <img src="images/article-pet-products-recommendation.webp" class="post-card-thumb" alt="2026寵物好物推薦" loading="lazy">
+      <div class="post-card-body">
+        <span class="post-card-cat">🛍️ 順寵好物推薦</span>
+        <h3 class="post-card-title">「我家貓主子用過都說讚」——最值得買的10樣寵物好物（不業配版）</h3>
+        <p class="post-card-excerpt">3貓2狗親自試用半年，從200塊貓砂盆到2000塊餵食器，10樣真的離不開的好物。不業配、不說謊。</p>
+        <div class="post-card-meta"><span>閱讀 8 分鐘</span></div>
+      </div>
+    </a>
+    <a href="posts/post-001.html" class="post-card" data-cat="貓行為實驗室">
+      <img src="images/article-cat-alone-home.webp" class="post-card-thumb" alt="貓咪獨處8小時行為實驗" loading="lazy">
+      <div class="post-card-body">
+        <span class="post-card-cat">🐱 貓行為實驗室</span>
+        <h3 class="post-card-title">實驗：把貓咪單獨留在家8小時，攝影機拍到的6個意外行為</h3>
+        <p class="post-card-excerpt">5個貓家庭、連續一週的攝影機記錄。貓咪獨處時只睡了37%的時間，還會聞你的鞋子、下午2點瘋狂跑酷。</p>
+        <div class="post-card-meta"><span>閱讀 12 分鐘</span></div>
+      </div>
+    </a>
+    <a href="posts/post-004.html" class="post-card" data-cat="寵物營養實驗室">
+      <img src="images/article-cat-food-test.webp" class="post-card-thumb" alt="貓糧成分實測" loading="lazy">
+      <div class="post-card-body">
+        <span class="post-card-cat">🥼 寵物營養實驗室</span>
+        <h3 class="post-card-title">市售10款貓糧成分實測：標榜無穀卻檢出穀物的品牌是？</h3>
+        <p class="post-card-excerpt">10款無穀貓糧送檢，3款檢出未標示的穀物DNA，2款蛋白質含量低於標示。最貴的那款問題最多。</p>
+        <div class="post-card-meta"><span>閱讀 14 分鐘</span></div>
+      </div>
+    </a>
+    <a href="posts/post-010.html" class="post-card" data-cat="寵物商品科學">
+      <img src="images/article-cat-litter-comparison.webp" class="post-card-thumb" alt="貓砂除臭力對比實驗" loading="lazy">
+      <div class="post-card-body">
+        <span class="post-card-cat">🛒 寵物商品科學</span>
+        <h3 class="post-card-title">市售8款貓砂除臭力對比實驗：活性炭、沸石、酵素誰最有效？</h3>
+        <p class="post-card-excerpt">氨氣偵測儀實測8款貓砂，沸石砂第一、水晶砂第二，最貴的酵素豆腐砂只排第三。</p>
+        <div class="post-card-meta"><span>閱讀 10 分鐘</span></div>
+      </div>
+    </a>
+    <a href="posts/post-005.html" class="post-card" data-cat="高齡寵物學">
+      <img src="images/article-senior-dog-dementia.webp" class="post-card-thumb" alt="狗狗癡呆CCD" loading="lazy">
+      <div class="post-card-body">
+        <span class="post-card-cat">🧓 高齡寵物學</span>
+        <h3 class="post-card-title">狗狗癡呆（CCD）的5個早期訊號與家庭評估量表</h3>
+        <p class="post-card-excerpt">10歲以上狗狗超過50%有認知障礙。半夜站牆角、忘記定點如廁、睡眠顛倒——別再說「老了正常」。</p>
+        <div class="post-card-meta"><span>閱讀 11 分鐘</span></div>
+      </div>
+    </a>
+    <a href="posts/post-003.html" class="post-card" data-cat="狗訓練科學">
+      <img src="images/article-dog-clicker-training.webp" class="post-card-thumb" alt="響片vs口語標記實驗" loading="lazy">
+      <div class="post-card-body">
+        <span class="post-card-cat">🐕 狗訓練科學</span>
+        <h3 class="post-card-title">響片 vs 口語標記：12隻狗的學習速度對比實驗</h3>
+        <p class="post-card-excerpt">12隻狗分兩組學習新任務，響片組快了19%但統計不顯著。關鍵不是工具，是標記時機。</p>
+        <div class="post-card-meta"><span>閱讀 10 分鐘</span></div>
+      </div>
+    </a>
+    <a href="posts/post-007.html" class="post-card" data-cat="異寵物種誌">
+      <img src="images/article-leopard-gecko.webp" class="post-card-thumb" alt="豹紋守宮物種誌" loading="lazy">
+      <div class="post-card-body">
+        <span class="post-card-cat">🦎 異寵物種誌</span>
+        <h3 class="post-card-title">豹紋守宮物種誌：沙漠晝行性的迷思與飼養參數的科學依據</h3>
+        <p class="post-card-excerpt">野外紅外線觀察發現豹紋守宮其實是黃昏性，不是夜行性。這個發現改變了UVB和溫度設定的邏輯。</p>
+        <div class="post-card-meta"><span>閱讀 12 分鐘</span></div>
+      </div>
+    </a>
+  </div>
+
+</main>
+
+<!-- Footer -->
+<footer class="site-footer footer-animated" style="background-image:url('images/footer-default.gif');">
+  <div class="footer-overlay">
+  <div class="footer-inner">
+    <div class="footer-top">
+      <div class="footer-brand">
+        <h3>🐾 PetLogic 寵物知識百科</h3>
+        <p>10大深度專欄，用實驗、數據和科學文獻理解毛孩。內容僅供知識參考，不取代專業醫療建議。</p>
+      </div>
+      <div class="footer-col">
+        <h4>行為與訓練</h4>
+        <a href="cat-behavior-lab.html">🐱 貓行為實驗室</a>
+        <a href="dog-training-science.html">🐕 狗訓練科學</a>
+        <a href="puppy-kitten-growth.html">🌱 成長誌</a>
+      </div>
+      <div class="footer-col">
+        <h4>健康、營養與好物</h4>
+        <a href="pet-nutrition-lab.html">🥼 營養實驗室</a>
+        <a href="senior-pet-studies.html">🧓 高齡寵物學</a>
+        <a href="pet-product-science.html">🛒 商品科學</a>
+        <a href="pet-goods-picks.html">🛍️ 好物推薦</a>
+      </div>
+      <div class="footer-col">
+        <h4>文化與生活</h4>
+        <a href="exotic-species-chronicles.html">🦎 異寵物種誌</a>
+        <a href="pets-and-city.html">🏙️ 寵物與城市</a>
+        <a href="pet-culture.html">📜 寵物文化誌</a>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div class="footer-links">
+        <a href="index.html">首頁</a>
+        <a href="blog.html">文章總覽</a>
+        <a href="sitemap.xml">網站地圖</a>
+        <a href="404.html">404 頁面</a>
+      </div>
+      <p>© <span id="current-year">2026</span> PetLogic 寵物知識百科 · 版權所有 · 內容僅供參考，醫療問題請諮詢獸醫師</p>
+    </div>
+  </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>
