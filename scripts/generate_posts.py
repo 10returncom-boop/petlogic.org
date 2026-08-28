@@ -1201,7 +1201,7 @@ def generate_post(article, prev_article=None, next_article=None):
   <div class="footer-inner">
     <div class="footer-top">
       <div class="footer-brand">
-        <h3>🐾 {SITE_NAME}</h3>
+        <img src="../images/logo.webp" alt="PetLogic 寵物知識百科 logo" class="footer-logo" style="max-width:180px;height:auto;margin-bottom:10px;">
         <p>用科學邏輯理解毛孩，讓每一位飼主都能安心養寵。9大深度專欄，持續更新中。</p>
       </div>
       <div class="footer-col">
