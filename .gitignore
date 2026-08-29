@@ -25,3 +25,6 @@ desktop.ini
 # 環境
 .env
 .env.local
+
+# 備用資料區（不上傳GitHub）
+備用資料區/
