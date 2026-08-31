@@ -1,4 +1,4 @@
-# PetLogic 毛毛邏輯 寵物知識百科 — 網站規格書
+﻿# PetLogic 毛毛邏輯 寵物知識百科 — 網站規格書
 
 | 項目 | 內容 |
 |---|---|
@@ -42,8 +42,7 @@
 | **DNS** | GoDaddy 管理，A 記錄指向 GitHub Pages IP |
 | **HTTPS** | GitHub Pages 自動簽發憑證 |
 | **部署方式** | git push → GitHub Actions 自動部署 |
-| **本機工作目錄** | `C:\Users\SUSI\Doubao\chats\2026-08-27\new-chat-18\petlogic-org` |
-| **D 槽鏡像** | `D:\_zoot_webzone\alone\sites\petlogic.org` |
+| **本機工作目錄** | `D:\_WWW\petlogic.org 寵物知識百科網站` |
 | **備用資料區** | `D:\_WWW\petlogic-備用資料區`（47 檔，不上傳 GitHub） |
 
 ---
@@ -192,7 +191,7 @@ petlogic.org/
 
 ### 發布流程
 ```bash
-cd C:\Users\SUSI\Doubao\chats\2026-08-27\new-chat-18\petlogic-org
+cd D:\_WWW\petlogic.org 寵物知識百科網站
 git add -A
 git commit -m "說明"
 git push origin main
@@ -201,7 +200,7 @@ git push origin main
 
 ### 本機鏡像同步
 ```bash
-robocopy <工作目錄> D:\_zoot_webzone\alone\sites\petlogic.org /MIR
+# 無需額外鏡像，工作目錄即為 D:\_WWW\petlogic.org 寵物知識百科網站
 ```
 
 ### 注意事項
