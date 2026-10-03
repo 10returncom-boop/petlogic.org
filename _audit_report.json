@@ -1,0 +1,725 @@
+{
+  "total_html_pages": 114,
+  "total_existing_files": 309,
+  "broken_images": [],
+  "broken_links": [],
+  "missing_og_images": [],
+  "medical_hits": {
+    "blog.html": [
+      [
+        "麻",
+        3
+      ]
+    ],
+    "dog-training-science.html": [
+      [
+        "就醫",
+        1
+      ],
+      [
+        "獸醫",
+        1
+      ],
+      [
+        "治療",
+        1
+      ]
+    ],
+    "exotic-species-chronicles.html": [
+      [
+        "疾病",
+        1
+      ],
+      [
+        "症狀",
+        1
+      ],
+      [
+        "腎衰竭",
+        1
+      ],
+      [
+        "糖尿病",
+        1
+      ],
+      [
+        "感染",
+        1
+      ]
+    ],
+    "pet-goods-picks.html": [
+      [
+        "腎病",
+        1
+      ]
+    ],
+    "pet-nutrition-lab.html": [
+      [
+        "獸醫",
+        1
+      ],
+      [
+        "診斷",
+        2
+      ],
+      [
+        "疾病",
+        1
+      ],
+      [
+        "細菌",
+        1
+      ]
+    ],
+    "pet-product-science.html": [
+      [
+        "關節炎",
+        1
+      ],
+      [
+        "麻",
+        3
+      ]
+    ],
+    "posts/post-001.html": [
+      [
+        "細小",
+        1
+      ],
+      [
+        "絕育",
+        2
+      ]
+    ],
+    "posts/post-002.html": [
+      [
+        "治療",
+        9
+      ],
+      [
+        "心臟病",
+        1
+      ]
+    ],
+    "posts/post-004.html": [
+      [
+        "獸醫",
+        2
+      ],
+      [
+        "生產",
+        3
+      ]
+    ],
+    "posts/post-005.html": [
+      [
+        "獸醫",
+        1
+      ]
+    ],
+    "posts/post-006.html": [
+      [
+        "就醫",
+        2
+      ],
+      [
+        "獸醫",
+        3
+      ],
+      [
+        "疫苗",
+        4
+      ],
+      [
+        "驅蟲",
+        1
+      ],
+      [
+        "細小",
+        1
+      ]
+    ],
+    "posts/post-007.html": [
+      [
+        "就醫",
+        1
+      ],
+      [
+        "獸醫",
+        1
+      ],
+      [
+        "劑量",
+        5
+      ],
+      [
+        "症狀",
+        3
+      ],
+      [
+        "感染",
+        3
+      ],
+      [
+        "傳染病",
+        1
+      ]
+    ],
+    "posts/post-008.html": [
+      [
+        "疫苗",
+        3
+      ],
+      [
+        "黴菌",
+        1
+      ],
+      [
+        "寄生蟲",
+        1
+      ],
+      [
+        "細菌",
+        1
+      ],
+      [
+        "發情",
+        1
+      ]
+    ],
+    "posts/post-009.html": [
+      [
+        "結紮",
+        1
+      ]
+    ],
+    "posts/post-010.html": [
+      [
+        "生產",
+        1
+      ]
+    ],
+    "posts/post-011.html": [
+      [
+        "關節炎",
+        1
+      ],
+      [
+        "麻",
+        1
+      ]
+    ],
+    "posts/post-012.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-013.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-014.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-015.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-016.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-017.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-018.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-019.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-020.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-021.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-022.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-023.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-024.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-025.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-026.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-027.html": [
+      [
+        "獸醫",
+        4
+      ],
+      [
+        "治療",
+        7
+      ],
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-028.html": [
+      [
+        "就醫",
+        4
+      ],
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-029.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-030.html": [
+      [
+        "獸醫",
+        4
+      ],
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-031.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-032.html": [
+      [
+        "獸醫",
+        4
+      ],
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-033.html": [
+      [
+        "疾病",
+        5
+      ]
+    ],
+    "posts/post-034.html": [
+      [
+        "獸醫",
+        4
+      ],
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-035.html": [
+      [
+        "獸醫",
+        4
+      ],
+      [
+        "疾病",
+        1
+      ],
+      [
+        "細菌",
+        4
+      ]
+    ],
+    "posts/post-036.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-037.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-038.html": [
+      [
+        "獸醫",
+        4
+      ],
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-049.html": [
+      [
+        "結紮",
+        2
+      ]
+    ],
+    "posts/post-056.html": [
+      [
+        "麻",
+        1
+      ]
+    ],
+    "posts/post-057.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-058.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-059.html": [
+      [
+        "疾病",
+        5
+      ]
+    ],
+    "posts/post-060.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-061.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-062.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-063.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-064.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-065.html": [
+      [
+        "結紮",
+        1
+      ]
+    ],
+    "posts/post-066.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-067.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-068.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-069.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-070.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-071.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-072.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-073.html": [
+      [
+        "獸醫",
+        3
+      ],
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-074.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-075.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-076.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-077.html": [
+      [
+        "治療",
+        4
+      ],
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-078.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-079.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-080.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-081.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-082.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-083.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-084.html": [
+      [
+        "疾病",
+        1
+      ],
+      [
+        "麻",
+        2
+      ]
+    ],
+    "posts/post-085.html": [
+      [
+        "疾病",
+        1
+      ],
+      [
+        "麻",
+        2
+      ]
+    ],
+    "posts/post-086.html": [
+      [
+        "疾病",
+        1
+      ],
+      [
+        "麻",
+        2
+      ]
+    ],
+    "posts/post-087.html": [
+      [
+        "疾病",
+        1
+      ],
+      [
+        "麻",
+        2
+      ]
+    ],
+    "posts/post-088.html": [
+      [
+        "疾病",
+        1
+      ],
+      [
+        "麻",
+        17
+      ]
+    ],
+    "posts/post-089.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-090.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-091.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-092.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-093.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-094.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-095.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-096.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-097.html": [
+      [
+        "疾病",
+        1
+      ],
+      [
+        "麻",
+        7
+      ]
+    ],
+    "posts/post-098.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-099.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-100.html": [
+      [
+        "疾病",
+        1
+      ]
+    ],
+    "posts/post-101.html": [
+      [
+        "疾病",
+        1
+      ]
+    ]
+  }
+}
