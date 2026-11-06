@@ -1,0 +1,32 @@
+# PetLogic 寵物知識百科 - robots.txt
+# https://petlogic.org
+
+User-agent: *
+Allow: /
+Disallow: /scripts/
+Disallow: /README.md
+
+# 允許主要搜尋引擎
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+# Sitemap
+Sitemap: https://petlogic.org/sitemap.xml
